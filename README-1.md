@@ -15,7 +15,7 @@ and salary/staffing records across both teaching and non-teaching staff.
 
 ## Entity Relationship Diagram
 
-![Greenfield University ERD](diagrams/erd_diagram.png)<img width="1074" height="813" alt="Capture" src="https://github.com/user-attachments/assets/2858535e-d594-4a37-81ce-4bbc7907845a" />
+<img width="1074" height="813" alt="Capture" src="https://github.com/user-attachments/assets/2858535e-d594-4a37-81ce-4bbc7907845a" />
 
 
 ## Schema Overview
