@@ -4,7 +4,7 @@
    ============================================================ */
 
 USE Greenfield;
-GO
+
 
 -- ============================================================
 -- INITIAL BASE DATA
@@ -105,7 +105,7 @@ UPDATE Department SET HeadOfDeptID = 3  WHERE DepartmentID = 7;   -- Engineering
 UPDATE Department SET HeadOfDeptID = 11 WHERE DepartmentID = 8;   -- Education
 UPDATE Department SET HeadOfDeptID = 12 WHERE DepartmentID = 9;   -- Agriculture
 UPDATE Department SET HeadOfDeptID = 1  WHERE DepartmentID = 10;  -- Information Technology
-GO
+
 
 -- ============================================
 -- ADDITIONAL DEPARTMENTS (12-15)
