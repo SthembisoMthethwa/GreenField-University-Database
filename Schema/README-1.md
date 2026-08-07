@@ -90,4 +90,4 @@ More examples in [`queries/sample_queries.sql`](queries/sample_queries.sql).
 
 ## Author
 
-Impulse — ICT Honours graduate, Durban University of Technology
+Sthembiso Mthethwa — ICT Honours graduate, Durban University of Technology
